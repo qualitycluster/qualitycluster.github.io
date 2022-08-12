@@ -1,5 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Quality Cluster</title><link>http://qualitycluster.github.io/</link><description>Recent content on Quality Cluster</description><generator>Hugo -- gohugo.io</generator><language>de-de</language><lastBuildDate>Fri, 12 Aug 2022 18:03:19 +0200</lastBuildDate><atom:link href="http://qualitycluster.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Wer wir sind</title><link>http://qualitycluster.github.io/about/werwirsind/</link><pubDate>Fri, 12 Aug 2022 18:03:19 +0200</pubDate><guid>http://qualitycluster.github.io/about/werwirsind/</guid><description>Wer wir sind? QualityCluster ist ein Zusammenschluss von QE-Experten (Quality Engineers), um gemeinsam bessere Lösungen im Bereich Software Qualitätssicherung zu entwickeln. Unser Ziel ist es mehr Qualität durch höhere Automatisierungsgrade zu verwirklichen.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Quality Cluster</title><link>http://qualitycluster.github.io/</link><description>Recent content on Quality Cluster</description><generator>Hugo -- gohugo.io</generator><language>de-de</language><lastBuildDate>Fri, 12 Aug 2022 20:20:47 +0200</lastBuildDate><atom:link href="http://qualitycluster.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Impressum</title><link>http://qualitycluster.github.io/impressum/impressum/</link><pubDate>Fri, 12 Aug 2022 20:20:47 +0200</pubDate><guid>http://qualitycluster.github.io/impressum/impressum/</guid><description>Angaben gemäß § 5 TMG Boiman IT-Berater Partnerschaft
+Im Zollhafen 12
+50678 Köln
+Partnerschaftsregister: PR 4887
+Registergericht: Amtsgericht Essen
+Vertreten durch:
+Lior Boiman, Michael Boiman
+Kontakt Telefon: +49 (0) 178 189 87 91
+E-Mail: info@boiman.solutions
+Umsatzsteuer-ID Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:
+DE339665565
+Angaben zur Berufshaftpflichtversicherung Name und Sitz des Versicherers:
+AXA Versicherung AG
+Colonoa-Allee 10-20
+51067 Köln
+Geltungsraum der Versicherung:
+Deutschland
+Verbraucher­streit­beilegung/Universal­schlichtungs­stelle Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.</description></item><item><title>Wer wir sind</title><link>http://qualitycluster.github.io/about/werwirsind/</link><pubDate>Fri, 12 Aug 2022 18:03:19 +0200</pubDate><guid>http://qualitycluster.github.io/about/werwirsind/</guid><description>QualityCluster ist ein Zusammenschluss von QE-Experten (Quality Engineers), um gemeinsam bessere Lösungen im Bereich Software Qualitätssicherung zu entwickeln. Unser Ziel ist es mehr Qualität durch höhere Automatisierungsgrade zu verwirklichen.
 Unser Ziel Wir verfolgen einen agilen Ansatz der Qualitätssicherung, bei dem darum geht: mehr Qualität durch höhere Automatisierungsgrade innerhalb einer Pipeline auszubauen
 Unsere Partner Das QualityCluster wird aktuell aus folgenden Partnern unterstützt
 Werde ein teil unseres Slacks
-Folge uns auf Github</description></item><item><title>My First Post</title><link>http://qualitycluster.github.io/posts/my-first-post/</link><pubDate>Fri, 12 Aug 2022 17:17:23 +0200</pubDate><guid>http://qualitycluster.github.io/posts/my-first-post/</guid><description>Test 1234</description></item></channel></rss>
+Folge uns auf Github</description></item><item><title>Gauge-Taiko UI Testautomatisierung"</title><link>http://qualitycluster.github.io/posts/gauge-taikouitestautomatisierung/</link><pubDate>Fri, 12 Aug 2022 17:17:23 +0200</pubDate><guid>http://qualitycluster.github.io/posts/gauge-taikouitestautomatisierung/</guid><description>Gauge und Taiko bilden eine effiziente Kombination zur UI Automatisierung mit vielen Vorteilen:
+Gauge Gauge ist ein freier Test-Runner, dass es erlaubt lesbare und wiederverwendbare Tests in Markdown format zu schreiben
+Test-Szenario ist Gleichzeit auch der Report Testbausteine wiederverwendbar Lesbare Tests mit Markdown (ähnlich wie Cucumber) Kontrolle der ausgeführten Tests durch Tagging Scallierbarkeit Datengetriebene Test Möglichkeit Taiko Taiko ist eine offene Node.js Bibliothek mit einer einfachen API um automatisiert Browser getriebene Tests in JavaScript zu schreiben.</description></item></channel></rss>
