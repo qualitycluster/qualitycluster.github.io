@@ -1,5 +1,5 @@
 ---
-title: "Werwirsind"
+title: "Wer wir sind"
 date: 2022-08-12T18:03:19+02:00
 draft: false
 ---
