@@ -2,3 +2,24 @@ baseURL = 'http://qualitycluster.github.io/'
 languageCode = 'de-de'
 title = 'Quality Cluster'
 theme = "ananke"
+resourceDir = "resources"
+DefaultContentLanguage = "de"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+# googleAnalytics = ""
+# enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+  [params]
+  text_color = ""
+  author = ""
+  favicon = ""
+  site_logo = ""
+  description = "May the quality be with you!"
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  recent_posts_number = 3
