@@ -1,7 +1,10 @@
 ---
 title: "Wer wir sind"
-date: 2022-08-12T18:03:19+02:00
-draft: false
+description: "Wer wir sind"
+
+menu:
+  main:
+    weight: 1
 ---
 QualityCluster ist ein Zusammenschluss von QE-Experten (Quality Engineers), um gemeinsam bessere Lösungen im Bereich Software Qualitätssicherung zu entwickeln.   
 Unser Ziel ist es mehr Qualität durch höhere Automatisierungsgrade zu verwirklichen.

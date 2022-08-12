@@ -1,7 +1,10 @@
 ---
 title: "Impressum"
-date: 2022-08-12T20:20:47+02:00
-draft: false
+description: "Impressum von Boiman.Solutions"
+#featured_image: '/images/Victor_Hugo-Hunchback.jpg'
+menu:
+  main:
+    weight: 1
 ---
 Angaben gemäß § 5 TMG
 ---------------------
