@@ -9,7 +9,7 @@ menu:
 Quality Manifesto
 -----------------
 
-Das Quality Manifesto enthält agile und universelle Regeln zum Umgang mit Qualität in agilen Projekte n
+Das Quality Manifesto enthält agile und universelle Regeln zum Umgang mit Qualität in agilen Projekten.
 
 **One Bug Policy**
 ------------------
