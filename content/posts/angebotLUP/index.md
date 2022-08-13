@@ -11,7 +11,8 @@ draft: false
 
 Im Rahmen der Einfühung unseres neuen Services zum „Last- und Performance-Test“ bieten wir einen kostenloses proof of concept und einen initialen Test an.
 
-![](https://qualitycluster.de/wp-content/uploads/2021/08/lup_uebersicht3-1024x606.png)
+{{< image src="lup_uebersicht3.png" position="center" style="border-radius: 8px;" >}}
+
 
 2\. Rahmenbedingungen
 ---------------------
@@ -53,16 +54,14 @@ Report (PDF oder Powerpoint)
 
 3\. Lastprofile
 ---------------
-
-![](https://qualitycluster.de/wp-content/uploads/2021/08/grenzlast.png)
+{{< image src="grenzlast.png" position="center" style="border-radius: 8px;" >}}
 
 Grenzlasttest
 =============
 
 Mit einer etappenweise steigenden Last können wir den Sättigungspunkt des Test-Objetktes verifizieren  
   
-
-![](https://qualitycluster.de/wp-content/uploads/2021/08/durchsatzlast.png)
+{{< image src="durchsatzlast.png" position="center" style="border-radius: 8px;" >}}
 
 Durchsatztest
 =============
@@ -118,7 +117,6 @@ Kontaktieren Sie uns
 
 Kontaktieren Sie uns über [info@qualitycluster.net](mailto:info@qualitycluster.net?subject=Last%20und%20Performance%20Test)  und wir können gerne ein Beratungstermin vereinbaren.
 
-![](https://qualitycluster.de/wp-content/uploads/2021/08/MB_profil-150x150.jpeg)
-
-#### Michael  
+Michael
+{{< image src="../../companys/MB_profil-150x150.jpeg" style="border-radius: 50%;" >}}
 LuP Experte
