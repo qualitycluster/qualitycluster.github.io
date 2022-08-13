@@ -1,25 +1,52 @@
 baseURL = 'http://qualitycluster.github.io/'
 languageCode = 'de-de'
 title = 'Quality Cluster'
-theme = "ananke"
-resourceDir = "resources"
-DefaultContentLanguage = "de"
-SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
-# googleAnalytics = ""
-# enableRobotsTXT = true
+theme = "hello-friend-ng"
+paginate = 10
 
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
 
-  [params]
-  text_color = ""
-  author = ""
-  favicon = ""
-  site_logo = ""
-  description = "May the quality be with you!"
-  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
-  recent_posts_number = 3
+  # Subtitle for home
+  homeSubtitle = "A simple and beautiful blog"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you like
+  enableSharingButtons = true
+
+  # Metadata mostly used in document's head
+  description = "My new homepage or blog"
+  keywords = "homepage, blog"
+  images = [""]
+
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
+
+[languages]
+  [languages.de]
+    title = "Hello Friend NG"
+    subtitle = "A simple theme for Hugo"
+    keywords = ""
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "hello friend ng"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+  # And you can even create generic menu
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/posts"
