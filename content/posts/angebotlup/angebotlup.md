@@ -10,7 +10,7 @@ draft: false
 ### Kostenloser initialer Lasttest
 
 Im Rahmen der Einfühung unseres neuen Services zum „Last- und Performance-Test“ bieten wir einen kostenloses proof of concept und einen initialen Test an.
-![](/image/angebotLUP/lup_uebersicht3.png)
+![](../lup_uebersicht3.png)
 
 2\. Rahmenbedingungen
 ---------------------
@@ -52,14 +52,14 @@ Report (PDF oder Powerpoint)
 
 3\. Lastprofile
 ---------------
-![](/image/angebotLUP/grenzlast.png)
+![](../grenzlast.png)
 
 Grenzlasttest
 =============
 
 Mit einer etappenweise steigenden Last können wir den Sättigungspunkt des Test-Objetktes verifizieren  
   
-![](/image/angebotLUP/durchsatzlast.png)
+![](../durchsatzlast.png)
 
 Durchsatztest
 =============
