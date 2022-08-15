@@ -1,7 +1,7 @@
 baseURL = 'http://qualitycluster.github.io/'
 languageCode = 'de-de'
 title = 'Quality Cluster'
-theme = "PaperMod"
+theme = "hello-friend-ng"
 paginate = 10
 DefaultContentLanguage = "de"
 

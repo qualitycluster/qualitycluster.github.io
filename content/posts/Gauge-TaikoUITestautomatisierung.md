@@ -1,6 +1,6 @@
 ---
-title: Gauge-Taiko UI Testautomatisierung"
-date: 2022-08-12T17:17:23+02:00
+title: "Gauge-Taiko UI Testautomatisierung"
+date: 2021-10-17T17:17:23+02:00
 draft: false
 ---
 Gauge und Taiko bilden eine effiziente Kombination zur UI Automatisierung mit vielen Vorteilen:
