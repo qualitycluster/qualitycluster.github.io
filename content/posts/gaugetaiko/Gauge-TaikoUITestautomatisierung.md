@@ -150,11 +150,11 @@ Neues Projekt einrichten
 5.  Ordner auswählen
 6.  Namen eingeben
 
-![](https://qualitycluster.de/wp-content/uploads/2021/10/gauge_vsc.gif)
+![](../gauge_vsc.gif)
 
 Ein neues Projekt ist jetzt eingerichtet.
 
-![](https://qualitycluster.de/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-24-um-17.45.22.png)
+![](../gauge_struktur.png)
 
 Es gibt für den Anfang zwei wichtige Ordner:
 
@@ -166,21 +166,21 @@ Wie man sieht gibt es bereits ein generiertes Beispiel-Test unter specs/examples
 
 Klick auf Run Scenario lässt den Script laufen
 
-![](https://qualitycluster.de/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-24-um-17.56.01-1024x472.png)
+![](../gaugetaiko_runscenario.png)
 
 Nach durchlaufen des Tests wird ein Testreport generiert. Mit ein klick auf das Ergebnis wird dieser geöffnet.
 
-![](https://qualitycluster.de/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-24-um-20.43.37.png)
+![](../gaugetaiko_runvsc.png)
 
 <– Klick darauf (ist ganz unten zu finden)
 
 Es öffnet Sich der Testreport, darin eine Übersicht über alle ausgeführten Tests. Klick auf das ausgeführte Test.
 
-![](https://qualitycluster.de/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-24-um-20.43.49-1024x421.png)
+![](../gaugetaiko_report.png)
 
 Es öffnet sich eine detaillierte Ansicht der Test Ausführung
 
-![](https://qualitycluster.de/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-24-um-20.44.09-1024x814.png)
+![](../gaugetaiko_detalierteansicht.png)
 
 Einen ersten kleinen Test schreiben
 -----------------------------------
