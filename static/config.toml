@@ -1,5 +1,5 @@
-baseURL = 'https://qualitycluster.github.io'
-languageCode = 'de-de'
+baseURL = 'https://cohub-hugo.netlify.app'
+languageCode = 'en-us'
 paginate = 6
 theme= "coHub"
 title = 'coHub'
