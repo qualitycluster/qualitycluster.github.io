@@ -2,7 +2,7 @@ baseURL = 'https://qualitycluster.github.io'
 languageCode = 'de-de'
 paginate = 6
 theme= "coHub"
-title = 'coHub'
+title = 'QualityCLuster'
  
 [Menu]
   # Main Menu
@@ -51,8 +51,8 @@ title = 'coHub'
   copyright = "© {year} coHub. Inc."
   formspreeURL = "https://formspree.io/mbjwlead"
   googleAnalytics = "G-JZ95FEWF9K"
-  logo = "images/logo.png"
-  footerlogo = "images/logo.png"
+  logo = "images/QualityCluster-logo.png"
+  footerlogo = "images/QualityCluster-logo.png"
   footerDescription = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit quia ab, natus fugiat voluptas saepe ipsum animi officiis in molestiae?"
 
   [params.address]
@@ -78,12 +78,8 @@ title = 'coHub'
   url = "https://twitter.com/"
   weight = 2
   [[params.social]]
-  icon = "ti-dribbble"
-  url = "https://dribbble.com/"
-  weight = 3
-  [[params.social]]
   icon = "ti-instagram"
   url = "https://www.instagram.com/"
-  weight = 4
+  weight = 3
   
   
