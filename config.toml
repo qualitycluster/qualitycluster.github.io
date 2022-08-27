@@ -1,7 +1,7 @@
 baseURL = 'https://qualitycluster.github.io'
 languageCode = 'de-de'
 paginate = 6
-theme= "coHub"
+theme= "myCoHub"
 title = 'QualityCLuster'
  
 [Menu]
