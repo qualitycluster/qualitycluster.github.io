@@ -16,7 +16,7 @@ title = 'QualityCLuster'
   weight = 1
   [[menu.Main]]
   name = "Quality Manifesto"
-  url= "#qualitymanifesto"
+  url= "/qualitymanifesto/"
   weight = 1
 
 
